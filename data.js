@@ -290,7 +290,7 @@ var APP_DATA = {
           "yaw": -2.153027149351608,
           "pitch": 0.4534227540054907,
           "title": "Pelimanni",
-          "text": "https://www.onnelaart.fi/wp-content/uploads/2024/03/Pelimanni-poster-mockup.jpg"
+          "text": "<img src='https://www.onnelaart.fi/wp-content/uploads/2024/03/Pelimanni-poster-mockup.jpg' style='width:100%;' alt='Pelimanni'>"
         }
       ]
     },
