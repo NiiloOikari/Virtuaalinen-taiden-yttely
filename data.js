@@ -33,7 +33,7 @@ var APP_DATA = {
           "yaw": -3.139181456996136,
           "pitch": 0.45770808575114863,
           "rotation": 0,
-          "target": "1-25"
+          "target": "1-2"
         }
       ],
       "infoHotspots": [
@@ -58,8 +58,8 @@ var APP_DATA = {
       ]
     },
     {
-      "id": "1-25",
-      "name": "2.5",
+      "id": "1-2",
+      "name": "2",
       "levels": [
         {
           "tileSize": 256,
@@ -96,62 +96,31 @@ var APP_DATA = {
           "yaw": 0.6081795318369778,
           "pitch": 0.5226934466803677,
           "rotation": 5.497787143782138,
-          "target": "3-3"
+          "target": "2-3"
         },
         {
           "yaw": 1.5995219418256967,
           "pitch": 0.4722024945288368,
           "rotation": 0.7853981633974483,
-          "target": "4-4"
+          "target": "3-4"
         },
         {
           "yaw": -2.137292657840927,
           "pitch": 0.4497160184670186,
           "rotation": 5.497787143782138,
-          "target": "6-6"
+          "target": "5-6"
         },
         {
           "yaw": -1.4304205337612608,
           "pitch": 0.42624136464464435,
           "rotation": 0.7853981633974483,
-          "target": "5-5"
+          "target": "4-5"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "2-2",
-      "name": "2",
-      "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
-          "tileSize": 512,
-          "size": 512
-        },
-        {
-          "tileSize": 512,
-          "size": 1024
-        },
-        {
-          "tileSize": 512,
-          "size": 2048
-        }
-      ],
-      "faceSize": 1472,
-      "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
-      },
-      "linkHotspots": [],
-      "infoHotspots": []
-    },
-    {
-      "id": "3-3",
+      "id": "2-3",
       "name": "3",
       "levels": [
         {
@@ -183,7 +152,7 @@ var APP_DATA = {
           "yaw": 3.039019874506362,
           "pitch": 0.5203414318886139,
           "rotation": 5.497787143782138,
-          "target": "4-4"
+          "target": "3-4"
         }
       ],
       "infoHotspots": [
@@ -214,7 +183,7 @@ var APP_DATA = {
       ]
     },
     {
-      "id": "4-4",
+      "id": "3-4",
       "name": "4",
       "levels": [
         {
@@ -246,25 +215,25 @@ var APP_DATA = {
           "yaw": 0.4824197882468848,
           "pitch": 0.5453005921542697,
           "rotation": 0,
-          "target": "3-3"
+          "target": "2-3"
         },
         {
           "yaw": -0.6441106554002403,
           "pitch": 0.44899402364877616,
           "rotation": 0,
-          "target": "1-25"
+          "target": "1-2"
         },
         {
           "yaw": -1.0752232073903407,
           "pitch": 0.2770818980614944,
           "rotation": 5.497787143782138,
-          "target": "6-6"
+          "target": "5-6"
         },
         {
           "yaw": -0.5807722571650693,
           "pitch": 0.23275645021789515,
           "rotation": 0.7853981633974483,
-          "target": "5-5"
+          "target": "4-5"
         }
       ],
       "infoHotspots": [
@@ -290,12 +259,12 @@ var APP_DATA = {
           "yaw": -2.153027149351608,
           "pitch": 0.4534227540054907,
           "title": "Pelimanni",
-          "text": "<img src='https://www.onnelaart.fi/wp-content/uploads/2024/03/Pelimanni-poster-mockup.jpg' style='width:100%;' alt='Pelimanni'>"
+          "text": ""
         }
       ]
     },
     {
-      "id": "5-5",
+      "id": "4-5",
       "name": "5",
       "levels": [
         {
@@ -327,25 +296,25 @@ var APP_DATA = {
           "yaw": -0.18089943506133466,
           "pitch": 0.5033430065765607,
           "rotation": 0,
-          "target": "1-25"
+          "target": "1-2"
         },
         {
           "yaw": 0.8037770966632447,
           "pitch": 0.47205185935041705,
           "rotation": 0.7853981633974483,
-          "target": "6-6"
+          "target": "5-6"
         },
         {
           "yaw": -0.21802334400400447,
           "pitch": 0.19036117350024995,
           "rotation": 0.7853981633974483,
-          "target": "4-4"
+          "target": "3-4"
         },
         {
           "yaw": -0.7339803586318254,
           "pitch": 0.21032471134660113,
           "rotation": 5.497787143782138,
-          "target": "3-3"
+          "target": "2-3"
         }
       ],
       "infoHotspots": [
@@ -382,7 +351,7 @@ var APP_DATA = {
       ]
     },
     {
-      "id": "6-6",
+      "id": "5-6",
       "name": "6",
       "levels": [
         {
@@ -414,13 +383,13 @@ var APP_DATA = {
           "yaw": 0.4989632216990181,
           "pitch": 0.535663845902242,
           "rotation": 0,
-          "target": "1-25"
+          "target": "1-2"
         },
         {
           "yaw": -0.7822752066426393,
           "pitch": 0.4376829017981976,
           "rotation": 5.497787143782138,
-          "target": "5-5"
+          "target": "4-5"
         }
       ],
       "infoHotspots": [
@@ -450,6 +419,6 @@ var APP_DATA = {
     "mouseViewMode": "drag",
     "autorotateEnabled": true,
     "fullscreenButton": true,
-    "viewControlButtons": true
+    "viewControlButtons": false
   }
 };
